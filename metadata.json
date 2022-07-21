@@ -3,7 +3,7 @@
   "symbol": "KIKI",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 200,
-  "image": "https://bafybeig6kqto3hdpta3ic3vgjoa6gjy3wvcjpk3iyoohbogrwujf2efttm.ipfs.nftstorage.link/46.mp4",
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://bafybeig5awse4qfjcwsn4d3nn3323nvjjqeblfqudmgymijfgxsnaqonam.ipfs.dweb.link/5541.png?ext=png",
   "attributes": [
    {
       "trait_type": "Number",
